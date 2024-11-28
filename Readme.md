@@ -1,0 +1,1 @@
+Want to see my voila? ==> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Susnfor/diy-covid-dashboard/HEAD?urlpath=voila%2Frender%2F5-Covid_Dashboard.ipynb)
